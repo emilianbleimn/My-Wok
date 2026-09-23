@@ -5,7 +5,7 @@ in Wok-Rot, Safran, Jade und Creme. Alles steckt in `index.html`; extern geladen
 Schriften *Fraunces* und *Nunito* von Google Fonts. Die Fotos liegen in `img/`.
 Oben steht ein Hinweis „Entwurf“ (`.draft`), der vor dem Livegang entfernt wird; ebenso `<meta name="robots" content="noindex">`.
 
-Live über GitHub Pages: https://emilianbleimn.github.io/my-wok/
+Live über GitHub Pages: https://emilianbleimn.github.io/My-Wok/
 
 ## Vor dem Livegang anpassen
 
